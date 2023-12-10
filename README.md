@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kian M. Gharbi
 #### I am a student at Seneca Polytechnic
-I'm currently wrapping up my studies on the C language.  Not much to say yet since I'm still relatively new to this but I'm hoping to update this place with projects and an extensive list of languages I have learnt in not time.
+I'm currently wrapping up my studies on the C language.  Not much to say yet since I'm still relatively new to this but I'm hoping to update this place with projects and an extensive list of languages I have learnt soon.
 
 Skills: **<W.I.P.>**
 
