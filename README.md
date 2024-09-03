@@ -9,7 +9,7 @@ Skills: **<W.I.P.>**
 - 🌱 I’m currently learning C (Almost done) 
 - 📫 How to reach me: johndoesstuff on Discord 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I might be Ryan Gosling 
+- ⚡ Fun fact: 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NoTbAd684)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kian-m-gharbi-188b95198/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_JohnDoesStuff_)  
